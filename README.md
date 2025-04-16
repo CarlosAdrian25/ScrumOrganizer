@@ -60,8 +60,7 @@ Puedes contactar al desarrollador:
 📧 Email: tintinytu@gmail.com
 
 🛠️ Desarrollado con Python, PyQt5 y Matplotlib
-**nota: Es un software enfocado tambien en la optimizacion de recursos ya que puede correr con 1Gb de ram, y de almacenamiento conforme al tiempo de uso puede pesar lo mas minimo**
-**fue realizado lo mas portable posible**
+**nota: Es un software enfocado tambien en la optimizacion de recursos ya que puede correr con 1Gb de ram, y de almacenamiento conforme al tiempo de uso puede pesar lo mas minimo!!**
 ---
 
 ¡Gracias por utilizar Scrum Organizer! 💼⏱️
