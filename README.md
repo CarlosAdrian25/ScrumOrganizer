@@ -21,22 +21,24 @@ Gracias por usar **Scrum Organizer**. Esta aplicación de escritorio ha sido dis
 -------------------------------
 1. Abre la carpeta **ScrumOrganizer**.
 2. Haz doble clic en el archivo `ScrumOrganizer.exe`.
+   ![Captura de pantalla 2025-04-16 161725](https://github.com/user-attachments/assets/00578548-f670-4653-9cf0-be4531e0685e)
+
 3. Bienvenido al menu:
    ***nota si te pierdes y sabes para que se usa una opcion tendras una pequeña descripcion de lo que hace tal opcion con solo sobre poner el mouse**
    ![Captura de pantalla 2025-04-16 160835](https://github.com/user-attachments/assets/4e57928b-2498-4951-aa6e-5ba0db742c13)
 
-5. Comienza a organizar tus tareas y enfócate mejor con la técnica Pomodoro.
+4. Comienza a organizar tus tareas y enfócate mejor con la técnica Pomodoro.
    **Nota: en el reloj pomodoro solo podras elegir las tareas que estan en In progres, si no tienes ninguna, que esperas crea una y sin soltar dejala caer el In progres**
    ![Captura de pantalla 2025-04-16 155216](https://github.com/user-attachments/assets/9bc418cf-4ab2-41c1-926f-5570d63d1cf7)
    **al terminar el reloj de pomodoro y el descanso, automaticamente la tarea se pondra en done**
-6. si deseas volver a repetirla ya sea por que no fue completada del todo, solo hagarala y sueltala en in progres, se te pedira una confirmacion.
+5. si deseas volver a repetirla ya sea por que no fue completada del todo, solo hagarala y sueltala en in progres, se te pedira una confirmacion.
 
    ![Captura de pantalla 2025-04-16 160342](https://github.com/user-attachments/assets/1d5786ed-e5f9-4ef9-a695-6be00009f287)
-7. Mediante tabajes se recopilaran la cantidad de tareas que realizaste para Monitoreo personal de Progreso
+6. Mediante tabajes se recopilaran la cantidad de tareas que realizaste para Monitoreo personal de Progreso
    ![Captura de pantalla 2025-04-16 155416](https://github.com/user-attachments/assets/3259aa03-0558-4f56-9c13-a0740a7edd8f)
-8. Presiona doble click sobre una tarea para verificar o editar la informacion de ella.
+7. Presiona doble click sobre una tarea para verificar o editar la informacion de ella.
    ![Captura de pantalla 2025-04-16 155754](https://github.com/user-attachments/assets/0b19fa39-b805-4bea-96ad-5faad6e11c8f)
-9. es importante llevar notas de lo que haras con la tarea o llevar un registro de lo que trabajaste, o si tuviste un tropiezo, por ello tienes a tu disposicion daily scrum.
+8. es importante llevar notas de lo que haras con la tarea o llevar un registro de lo que trabajaste, o si tuviste un tropiezo, por ello tienes a tu disposicion daily scrum.
     **lleva un registro puntual de lo que haras, de lo que hiciste y que paso**
    ![Captura de pantalla 2025-04-16 161126](https://github.com/user-attachments/assets/6ac7fbae-0ed4-4a3b-97d7-d67ddd6ab8d5)
 
