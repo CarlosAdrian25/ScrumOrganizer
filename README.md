@@ -24,7 +24,7 @@ Gracias por usar **Scrum Organizer**. Esta aplicación de escritorio ha sido dis
    ![Captura de pantalla 2025-04-16 161725](https://github.com/user-attachments/assets/00578548-f670-4653-9cf0-be4531e0685e)
 
 3. Bienvenido al menu:
-   ***nota si te pierdes y no sabes para que se usa una opcion tendras una pequeña descripcion de lo que hace tal opcion con solo sobre poner el mouse**
+   **nota si te pierdes y no sabes para que se usa una opcion, tendras una pequeña descripcion de lo que hace, en tal opcion. con solo sobre poner el mouse**
    ![Captura de pantalla 2025-04-16 160835](https://github.com/user-attachments/assets/4e57928b-2498-4951-aa6e-5ba0db742c13)
 
 4. Comienza a organizar tus tareas y enfócate mejor con la técnica Pomodoro.
