@@ -61,7 +61,7 @@ Puedes contactar al desarrollador:
 **Carlos Flores**  
 📧 Email: tintinytu@gmail.com
 
-🛠️ Desarrollado con Python, PyQt5 y Matplotlib
+🛠️ Desarrollado con Python, PyQt5 y Matplotlib, y con Json como almacenaje de datos
 **nota: Es un software enfocado tambien en la optimizacion de recursos ya que puede correr con 1Gb de ram, y de almacenamiento conforme al tiempo de uso puede pesar lo mas minimo!!**
 ---
 
